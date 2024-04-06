@@ -11,3 +11,16 @@
     justify-content: center;
     text-align: center;
 }
+
+.nav_bar {
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+}
+.logo {
+    font-family: Source Sans Pro;
+    size: 24;
+    font-weight: 700;
+    line-height: 30.17px;
+    
+}
